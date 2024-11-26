@@ -20,7 +20,7 @@ Bu proje, JavaFX, MySQL ve Java kullanarak geliştirilmiş bir Müşteri İlişk
 - **Java**: Uygulama mantığı ve işlevselliği için kullanılan temel programlama dili.
 - **MySQL**: Müşteri bilgileri, hatırlatıcılar, teklifler ve raporlar için kullanılan veritabanı sistemi.
 
-## Proje Kurulumu
+
 
 ### Gereksinimler
 - **Java 21** (veya daha yeni sürümler)
